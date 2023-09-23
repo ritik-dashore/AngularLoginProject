@@ -1,0 +1,31 @@
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: cente;
+    height: 100vh;
+}
+form{
+    width: 550px;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+input.ng-touched.ng-invalid{
+ border: 1px solid #e24747c7;   
+}
+.isAccout{
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+.logout{
+    display: flex;
+}
+.logout a{
+    margin-left: 20px;
+}
+li.nav-item {
+    margin: 0 18px;
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "yash1051",
+      "email": "yash@gmail.com",
+      "contactNo": "6585659796",
+      "city": "khargone",
+      "password": "Khargone@18",
+      "id": 1
+    },
+    {
+      "username": "Ritik",
+      "email": "ritik@gmail.com",
+      "contactNo": "6585659486",
+      "city": "indore",
+      "password": "indore@12",
+      "id": 2
+    },
+    {
+      "username": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "contactNo": "8956848756",
+      "city": "Rajpur",
+      "password": "Mahesh@123",
+      "id": 3
+    }
+  ]
+}
